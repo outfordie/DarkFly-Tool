@@ -1,0 +1,9 @@
+pkg install python2
+pkg install git
+git clone https://github.com/Ranginang67/DarkFly-Tool
+cd DarkFly-Tool
+python2 install.py
+1.if installed is complite, use command
+$cd
+2.then run it
+$DarkFly
